@@ -88,8 +88,8 @@ HTML5 || CSS3 || JavaScript || Vue.js || Node.js || Git || Netlify || Firebase |
 
   <br/>
 
-  <div>
-    <a href="#"><img alt="Atteneri's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=attenerig&custom_title=Atteneri%20Gonzalez%20Mendoza's%20Contribution%20Graph&bg_color=0D1117&color=a3d3ba&line=FFFFFF&point=a3d3ba&hide_border=true"height="200"/></a>
+  <div align="center">
+    <a href="#"><img alt="Atteneri's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=attenerig&custom_title=Atteneri%20Gonzalez%20Mendoza's%20Contribution%20Graph&bg_color=0D1117&color=a3d3ba&line=FFFFFF&point=a3d3ba&hide_border=true" height="200"/></a>
   </div>
 </div>
 
