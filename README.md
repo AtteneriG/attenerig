@@ -4,6 +4,7 @@ Atteneri González Mendoza
 <br>
   <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Bitter&color=a3d3ba&background=0D1117&center=true&vCenter=true&lines=Graphic+Designer;Front+End+Developer+Junior" style="max-width: 100%;"></a>
 </h1>
+<div width="700">
 <h2>Hi there!</h2>
 <h3>I'm a girl from Canary Islands who's lover of everything but fanatic of nothing</h3>
 <br> 
@@ -19,13 +20,14 @@ Atteneri González Mendoza
   <a href="https://www.instagram.com/attenerigonmen/?hl=es" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=a3d3ba"></a>
 </p>
 
+</div>
 <br>
 
 <h2>⚡ Main Technologies</h2>
 
 <br>
 
-<p align="center">
+<p width="700" align="center">
   <a href="#"><img src="https://img.shields.io/badge/-HTML5-a3d3ba?&logo=html5&logoColor=0D1117&style=flatHeight=60"></a>
   <a href="#"><img src="https://img.shields.io/badge/-CSS3-a3d3ba?&logo=css3&logoColor=0D1117&style=flat"></a>
   <a href="#"><img src="https://img.shields.io/badge/-JavaScript-a3d3ba?&logo=javascript&logoColor=0D1117&style=flat"></a>
@@ -59,16 +61,16 @@ Atteneri González Mendoza
 
 <a href="https://www.adoptaunkompi.com" target="_blank"><img src="./src/version_primario_logo.svg" width="70px"></a>
 <br />
-
+<p width="700">
 Kompi is an app designed to connect people who want to adopt pets in Spain. 
 Developed in two months by Karmic Koala team as final project in EOI Front-End Programming and Web Design department. My role was work as developer and graphic designer creating the visual identity and the web layout.
 
 
 HTML5 || CSS3 || JavaScript || Vue.js || Node.js || Git || Netlify || Firebase || Google Analytics || Figma || Illustrator || Photoshop 
-
+</p>
 <br />
-<p>
-  <a href="https://www.adoptaunkompi.com" target="_blank"><img src="./src/mockup-kompi.jpg"></a>
+<p align="center">
+  <a href="https://www.adoptaunkompi.com" target="_blank"><img src="./src/mockup-kompi.jpg" width="700"></a>
 </p>
 
 <br/>
@@ -80,7 +82,7 @@ HTML5 || CSS3 || JavaScript || Vue.js || Node.js || Git || Netlify || Firebase |
 <div>
 
   <div align="center">
-    <a href="#"><img alt="Atteneri's Github Stats" src="https://github-readme-stats.vercel.app/api?username=attenerig&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=a3d3ba&icon_color=a3d3ba" height="200"/></a>
+    <a href="#"><img alt="Atteneri's Github Stats" src="https://github-readme-stats.vercel.app/api?username=attenerig&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=a3d3ba&icon_color=a3d3ba" width="700"/></a>
    <!-- <a href="#"><img alt="Atteneri's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=attenerig&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=a3d3ba&icon_color=a3d3ba" height="200"/></a>
     <br/>
     <i><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i> -->
@@ -89,7 +91,7 @@ HTML5 || CSS3 || JavaScript || Vue.js || Node.js || Git || Netlify || Firebase |
   <br/>
 
   <div align="center">
-    <a href="#"><img alt="Atteneri's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=attenerig&custom_title=Atteneri%20Gonzalez%20Mendoza's%20Contribution%20Graph&bg_color=0D1117&color=a3d3ba&line=FFFFFF&point=a3d3ba&hide_border=true" height="200"/></a>
+    <a href="#"><img alt="Atteneri's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=attenerig&custom_title=Atteneri%20Gonzalez%20Mendoza's%20Contribution%20Graph&bg_color=0D1117&color=a3d3ba&line=FFFFFF&point=a3d3ba&hide_border=true" width="700"/></a>
   </div>
 </div>
 
@@ -100,5 +102,5 @@ HTML5 || CSS3 || JavaScript || Vue.js || Node.js || Git || Netlify || Firebase |
 <br/>
 
 <p align="center">
-  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Bitter&duration=3000&color=a3d3ba&background=0D1117&center=true&vCenter=true&lines=Thank+you!"></a>
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Bitter&duration=3000&color=a3d3ba&background=0D1117&center=true&vCenter=true&lines=Thank+you!" width="700"></a>
 </p>
