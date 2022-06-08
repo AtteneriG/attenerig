@@ -5,8 +5,7 @@ Atteneri González Mendoza
   <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Bitter&color=a3d3ba&background=0D1117&center=true&vCenter=true&lines=Graphic+Designer;Front+End+Developer+Junior" style="max-width: 100%;"></a>
 </h1>
 
-<h2>
-Hi there!
+<h3>Hi there!</h3>
 <h3>I'm a girl from Canary Islands who's lover of everything but fanatic of nothing</h3>
 <br> 
 <p>🔸I'm currently working on 'YAYA' and 'JOTO Projects' brands. Soon!</p>
@@ -19,9 +18,10 @@ Hi there!
 <p align="left">
   <a href="https://www.linkedin.com/in/atteneri-gonzalez-mendoza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=a3d3ba"></a>
   <a href="https://www.instagram.com/attenerigonmen/?hl=es" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=a3d3ba"></a>
+
 </p>
 
-</h2>
+
 <br>
 
 <h2>⚡ Main Technologies</h2>
