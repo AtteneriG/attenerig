@@ -40,9 +40,9 @@ Atteneri González Mendoza
   <a href="#"><img src="https://img.shields.io/badge/-GitHub-a3d3ba?&logo=github&logoColor=0D1117&style=flat"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Google%20Analytics-a3d3ba?&logo=Google%20Analytics&logoColor=0D1117&style=flat"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Firebase-a3d3ba?&logo=Firebase&logoColor=0D1117&style=flat"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Adobe%20Figma-a3d3ba.svg?&logo=Figma&logoColor=0D1117&style=flat"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Adobe%20Invision-a3d3ba.svg?&logo=Invision&logoColor=0D1117&style=flat"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Adobe%20Sketch-a3d3ba.svg?&logo=Sketch&logoColor=0D1117&style=flat"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Figma-a3d3ba.svg?&logo=Figma&logoColor=0D1117&style=flat"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Invision-a3d3ba.svg?&logo=Invision&logoColor=0D1117&style=flat"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Sketch-a3d3ba.svg?&logo=Sketch&logoColor=0D1117&style=flat"></a>
   <a href="#"><img src="https://img.shields.io/badge/Adobe%20Illustrator-a3d3ba.svg?&logo=Adobe%20Illustrator&logoColor=0D1117&style=flat"></a>
   <a href="#"><img src="https://img.shields.io/badge/Adobe%20InDesign-a3d3ba.svg?&logo=Adobe%20Indesign&logoColor=0D1117&style=flat"></a>
   <a href="#"><img src="https://img.shields.io/badge/Adobe%20Photoshop-a3d3ba.svg?&logo=Adobe%20Photoshop&logoColor=0D1117&style=flat"></a>
