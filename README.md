@@ -51,9 +51,9 @@ Atteneri González Mendoza
 
 <a href="https://www.adoptaunkompi.com" target="_blank"><img src="./src/version_primario_logo.svg" width="70px"></a>
   <br />
- Kompi is a platform designed to connect people looking to adopt pets within the Spanish national territory.
+Kompi is an app designed to connect people who want to adopt pets in Spain. 
+Developed in two months by Karmic Koala team as final project in EOI Front-End Programming and Web Design department. My role was work as developer and graphic designer creating the visual identity and the web layout.
 
- Developed by the Karmic Koala team as a final project of the EOI Front-End Programming and Web Design Course.
 
 HTML5 || CSS3 || JavaScript || Vue.js || Node.js || Git || Netlify || Firebase || Google Analytics
 <br />
@@ -80,7 +80,7 @@ HTML5 || CSS3 || JavaScript || Vue.js || Node.js || Git || Netlify || Firebase |
   <br/>
 
   <div>
-    <a href="#"><img alt="Atteneri's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=attenerig&custom_title=Atteneri%20González%20Mendoza's%20Contribution%20Graph&bg_color=0D1117&color=a3d3ba&line=FFFFFF&point=a3d3ba&hide_border=true" /></a>
+    <a href="#"><img alt="Atteneri's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=attenerig&custom_title=Atteneri%20Gonzalez%20Mendoza's%20Contribution%20Graph&bg_color=0D1117&color=a3d3ba&line=FFFFFF&point=a3d3ba&hide_border=true" /></a>
   </div>
 </div>
 
