@@ -1,6 +1,8 @@
 
-<h1 align="center">Atteneri González Mendoza
-  <a href="#"><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Bitter&color=a3d3ba&background=0D1117&center=true&vCenter=true&lines=Graphic+Designer;Front+End+Developer+Junior" style="max-width: 100%;"></a>
+<h1 align="center">
+Atteneri González Mendoza
+<br>
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Bitter&color=a3d3ba&background=0D1117&center=true&vCenter=true&lines=Graphic+Designer;Front+End+Developer+Junior" style="max-width: 100%;"></a>
 </h1>
 <h2>Hi there!</h2>
 <h3>I'm a girl from Canary Islands who's lover of everything but fanatic of nothing</h3>
