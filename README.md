@@ -1,21 +1,27 @@
-<h1 align="center">
-Atteneri González Mendoza
-  <br/>
+
+<h1 align="center">Atteneri González Mendoza
   <a href="#"><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Bitter&color=a3d3ba&background=0D1117&center=true&vCenter=true&lines=Graphic+Designer;Front+End+Developer+Junior" style="max-width: 100%;"></a>
 </h1>
-
-<br/>
-
+<h2>Hi there!</h2>
+<h3>I'm a girl from Canary Islands who's lover of everything but fanatic of nothing</h3>
+<br> 
+<p>🔸I'm currently working on 'YAYA' and 'JOTO Projects' brands. Soon!</p>
+<p>🔸I'm currently improving my skills on JavaScript.</p>
+<p>🔸I'm looking for a job that get me new knowledge and allow me to continue exploring this profesion through passion and creativity.</p>
+<p>🔸2022 Goals: Contribute with good projects and discover new places.</p>
+<p>🔸Fun fact: I love travel, read, acting and of course coffee :)</p>
+<br> 
+<h4 align="center">Conect with me:</h4>
 <p align="center">
   <a href="https://www.linkedin.com/in/atteneri-gonzalez-mendoza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=a3d3ba"></a>
   <a href="https://www.instagram.com/attenerigonmen/?hl=es" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=a3d3ba"></a>
 </p>
 
-<br> 
+<br>
 
 <h2>⚡ Main Technologies</h2>
 
-<br/>
+<br>
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/-HTML5-a3d3ba?&logo=html5&logoColor=0D1117&style=flatHeight=60"></a>
@@ -50,14 +56,15 @@ Atteneri González Mendoza
 <br />
 
 <a href="https://www.adoptaunkompi.com" target="_blank"><img src="./src/version_primario_logo.svg" width="70px"></a>
-  <br />
+<br />
+
 Kompi is an app designed to connect people who want to adopt pets in Spain. 
 Developed in two months by Karmic Koala team as final project in EOI Front-End Programming and Web Design department. My role was work as developer and graphic designer creating the visual identity and the web layout.
 
 
-HTML5 || CSS3 || JavaScript || Vue.js || Node.js || Git || Netlify || Firebase || Google Analytics
-<br />
+HTML5 || CSS3 || JavaScript || Vue.js || Node.js || Git || Netlify || Firebase || Google Analytics || Figma || Illustrator || Photoshop 
 
+<br />
 <p>
   <a href="https://www.adoptaunkompi.com" target="_blank"><img src="./src/mockup-kompi.jpg"></a>
 </p>
