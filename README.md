@@ -13,8 +13,8 @@ Atteneri González Mendoza
 <p>🔸2022 Goals: Contribute with good projects and discover new places.</p>
 <p>🔸Fun fact: I love travel, read, acting and of course coffee :)</p>
 <br> 
-<h4 align="center">Conect with me:</h4>
-<p align="center">
+<h4 align="left">Conect with me:</h4>
+<p align="left">
   <a href="https://www.linkedin.com/in/atteneri-gonzalez-mendoza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=a3d3ba"></a>
   <a href="https://www.instagram.com/attenerigonmen/?hl=es" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=a3d3ba"></a>
 </p>
@@ -89,7 +89,7 @@ HTML5 || CSS3 || JavaScript || Vue.js || Node.js || Git || Netlify || Firebase |
   <br/>
 
   <div>
-    <a href="#"><img alt="Atteneri's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=attenerig&custom_title=Atteneri%20Gonzalez%20Mendoza's%20Contribution%20Graph&bg_color=0D1117&color=a3d3ba&line=FFFFFF&point=a3d3ba&hide_border=true" /></a>
+    <a href="#"><img alt="Atteneri's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=attenerig&custom_title=Atteneri%20Gonzalez%20Mendoza's%20Contribution%20Graph&bg_color=0D1117&color=a3d3ba&line=FFFFFF&point=a3d3ba&hide_border=true"height="200"/></a>
   </div>
 </div>
 
