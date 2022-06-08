@@ -2,7 +2,7 @@
 <h1 align="center">
 Atteneri González Mendoza
 <br>
-  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Bitter&color=a3d3ba&background=0D1117&center=true&vCenter=true&lines=Graphic+Designer;Front+End+Developer+Junior" style="max-width: 100%;"></a>
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Bitter&color=a3d3ba&background=0D1117&center=true&vCenter=true&lines=Graphic+Designer;Junior+Front+End+Developer" style="max-width: 100%;"></a>
 </h1>
 
 <h3>Hi there!</h3>
@@ -18,6 +18,7 @@ Atteneri González Mendoza
 <p align="left">
   <a href="https://www.linkedin.com/in/atteneri-gonzalez-mendoza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=a3d3ba"></a>
   <a href="https://www.instagram.com/attenerigonmen/?hl=es" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=a3d3ba"></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/-Behance-0D1117?style=for-the-badge&logo=Behance&logoColor=a3d3ba"></a>
 
 </p>
 
