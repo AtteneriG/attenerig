@@ -8,11 +8,11 @@ Atteneri González Mendoza
 <h3>Hi there!</h3>
 <h3>I'm a girl from Canary Islands who's lover of everything but fanatic of nothing</h3>
 <br> 
-<p>🔸I'm currently working on 'YAYA' and 'JOTO Projects' brands. Soon!</p>
+<p>🔸I'm currently working on 'Organiclub' and 'Luxel' user interfaces. Soon!</p>
 <p>🔸I'm currently improving my skills on JavaScript.</p>
 <p>🔸I'm looking for a job that get me new knowledge and allow me to continue exploring this profesion through passion and creativity.</p>
-<p>🔸2022 Goals: Contribute with good projects and discover new places.</p>
-<p>🔸Fun fact: I love travel, read, acting and of course coffee :)</p>
+<p>🔸2023 Goals: Contribute with good projects and discover new places.</p>
+<p>🔸Fun fact: I love travel, read, acting and of course eat :)</p>
 <br> 
 <h4 align="left">Conect with me:</h4>
 <p align="left">
