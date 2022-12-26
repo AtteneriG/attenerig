@@ -72,7 +72,7 @@ HTML5 || CSS3 || JavaScript || Vue.js || Node.js || Git || Netlify || Firebase |
 </p>
 <br />
 <p align="center">
-  <a href="https://www.adoptaunkompi.com" target="_blank"><img src="./src/mockup-kompi.jpg" width="700"></a>
+  <a href="https://www.adoptaunkompi.com" target="_blank"><img src="./src/kompiver1-min.jpg" width="700"></a>
 </p>
 
 <br/>
