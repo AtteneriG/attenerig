@@ -2,7 +2,7 @@
 <h1 align="center">
 Atteneri González Mendoza
 <br>
-  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Bitter&color=a3d3ba&background=0D1117&center=true&vCenter=true&lines=Graphic+Designer;Junior+Front+End+Developer" style="max-width: 100%;"></a>
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Bitter&color=a3d3ba&background=0D1117&center=true&vCenter=true&lines=Product+Designer;Junior+Front+End+Developer" style="max-width: 100%;"></a>
 </h1>
 
 <h3>Hi there!</h3>
