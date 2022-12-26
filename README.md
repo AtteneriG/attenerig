@@ -2,17 +2,17 @@
 <h1 align="center">
 Atteneri González Mendoza
 <br>
-  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Bitter&color=FF822D&background=0D1117&center=true&vCenter=true&lines=Graphic+Designer;Junior+Front+End+Developer" style="max-width: 100%;"></a>
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Bitter&color=9143E4&background=0D1117&center=true&vCenter=true&lines=Graphic+Designer;Junior+Front+End+Developer" style="max-width: 100%;"></a>
 </h1>
 
 <h3>Hi there!</h3>
 <h3>I'm a girl from Canary Islands who's lover of everything but fanatic of nothing</h3>
 <br> 
-<p>🔸I'm currently working on 'YAYA' and 'JOTO Projects' brands. Soon!</p>
+<p>🔸I'm currently working on 'Organiclub' and 'Luxel' user interfaces. Soon!</p>
 <p>🔸I'm currently improving my skills on JavaScript.</p>
 <p>🔸I'm looking for a job that get me new knowledge and allow me to continue exploring this profesion through passion and creativity.</p>
-<p>🔸2022 Goals: Contribute with good projects and discover new places.</p>
-<p>🔸Fun fact: I love travel, read, acting and of course coffee :)</p>
+<p>🔸2023 Goals: Contribute with good projects and discover new places.</p>
+<p>🔸Fun fact: I love travel, read, acting and of course eat :)</p>
 <br> 
 <h4 align="left">Conect with me:</h4>
 <p align="left">
@@ -72,7 +72,7 @@ HTML5 || CSS3 || JavaScript || Vue.js || Node.js || Git || Netlify || Firebase |
 </p>
 <br />
 <p align="center">
-  <a href="https://www.adoptaunkompi.com" target="_blank"><img src="./src/mockup-kompi.jpg" width="700"></a>
+  <a href="https://www.adoptaunkompi.com" target="_blank"><img src="./src/kompiver1-min.jpg" width="700"></a>
 </p>
 
 <br/>
