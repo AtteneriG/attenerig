@@ -9,7 +9,7 @@ Atteneri González Mendoza
 <h3>I'm a girl from Canary Islands who's lover of everything but fanatic of nothing</h3>
 <br> 
 <p>🔸I'm currently working on 'Organiclub' and 'Luxel' user interfaces. Soon!</p>
-<p>🔸I'm currently improving my skills on JavaScript.</p>
+<p>🔸I'm currently improving my skills on UI/UX.</p>
 <p>🔸I'm looking for a job that get me new knowledge and allow me to continue exploring this profesion through passion and creativity.</p>
 <p>🔸2023 Goals: Contribute with good projects and discover new places.</p>
 <p>🔸Fun fact: I love travel, read, acting and of course eat :)</p>
