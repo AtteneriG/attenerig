@@ -12,7 +12,7 @@ Atteneri González Mendoza
 <p>🔸I'm currently improving my skills on UI/UX.</p>
 <p>🔸I'm looking for a job that get me new knowledge and allow me to continue exploring this profesion through passion and creativity.</p>
 <p>🔸2023 Goals: Contribute with good projects and discover new places.</p>
-<p>🔸Fun fact: I love travel, read, acting and of course eat :)</p>
+<p>🔸Fun fact: I love travel, read, play videogames, acting and of course... eat :)</p>
 <br> 
 <h4 align="left">Conect with me:</h4>
 <p align="left">
